@@ -1,7 +1,5 @@
 # data-scientist-roadmap
 
-I just found this data science skills roadmap, drew by [Swami Chandrasekaran](http://nirvacana.com/thoughts/becoming-a-data-scientist/) on his cool blog.
-
 ****
 
 ![roadmap-picture](http://nirvacana.com/thoughts/wp-content/uploads/2013/07/RoadToDataScientist1.png)
